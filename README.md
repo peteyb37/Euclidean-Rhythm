@@ -2,7 +2,7 @@
 A python program designed to help musicians come up with complicated rhythms based on Euclid's Algorithm
 
 Run with
-  python euc.py
+  - python euc.py
   
 You will be given three options:
   - Number of steps:      Corresponds to how many beats per rhythm.       EX) 16 beats per measure
